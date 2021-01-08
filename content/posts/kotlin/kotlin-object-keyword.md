@@ -2,7 +2,7 @@
 title: "[Kotlin] Object 키워드 활용하기"
 date: 2021-01-08T10:53:16+09:00
 categories: ["kotlin"]
-tags: ["kotlin", "kotlin object", "keyword"]
+tags: ["kotlin", "kotlin object", "keyword", "코틀린"]
 draft: true
 ---
 ***
