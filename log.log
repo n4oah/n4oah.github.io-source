@@ -1,0 +1,114 @@
+Start building sites … 
+
+                   | EN  
+-------------------+-----
+  Pages            | 11  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 10  
+  Processed images |  0  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 144 ms
+Watching for changes in /Users/hojinkim/workspace/n4oah.github.io-source/{archetypes,content,data,themes}
+Watching for config changes in /Users/hojinkim/workspace/n4oah.github.io-source/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+Start building sites … 
+
+                   | EN  
+-------------------+-----
+  Pages            | 11  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 10  
+  Processed images |  0  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 94 ms
+Watching for changes in /Users/hojinkim/workspace/n4oah.github.io-source/{archetypes,content,data,themes}
+Watching for config changes in /Users/hojinkim/workspace/n4oah.github.io-source/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2021-01-08 14:36:51.415 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/hello-world.md": CREATE
+Total in 564 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:37:20.410 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/hello-world.md": CREATE
+Total in 21 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:37:59.410 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/hello-world.md": CREATE
+Total in 25 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:38:32.412 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/hello-world.md": CREATE
+Total in 18 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:41:40.204 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/hello-world.md": CREATE
+Total in 16 ms
+adding created directory to watchlist /Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin
+
+Change detected, rebuilding site.
+2021-01-08 14:43:39.216 +0900
+Total in 12 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:43:44.211 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/hello-world.md": CREATE
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/hello-world.md": RENAME
+Total in 15 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:43:57.213 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/hello-world.md": RENAME
+Total in 26 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:44:33.216 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
+Total in 24 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:44:49.211 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
+Total in 40 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:45:16.213 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
+Total in 50 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:45:41.217 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
+Total in 19 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:45:58.215 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
+Total in 16 ms
+
+Change detected, rebuilding site.
+2021-01-08 14:45:59.215 +0900
+Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
+Total in 28 ms
