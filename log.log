@@ -112,3 +112,123 @@ Change detected, rebuilding site.
 2021-01-08 14:45:59.215 +0900
 Source changed "/Users/hojinkim/workspace/n4oah.github.io-source/content/posts/kotlin/kotlin-object-keyword.md": CREATE
 Total in 28 ms
+
+Change of config file detected, rebuilding site.
+2021-01-08 14:50:40.220 +0900
+Rebuilt in 183 ms
+Start building sites … 
+
+                   | EN  
+-------------------+-----
+  Pages            | 15  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 12  
+  Processed images |  0  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 547 ms
+Watching for changes in /Users/hojinkim/workspace/n4oah.github.io-source/{archetypes,content,data,static,themes}
+Watching for config changes in /Users/hojinkim/workspace/n4oah.github.io-source/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2021-01-08 15:09:36.576 +0900
+i18n changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/i18n/ko.toml": WRITE
+Total in 90 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:09:50.570 +0900
+i18n changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/i18n/ko.toml": CREATE
+Total in 76 ms
+
+Change of config file detected, rebuilding site.
+2021-01-08 15:10:18.580 +0900
+WARN 2021/01/08 15:10:18 The site language "ko" isn't supported by lunr, the search results might be suboptimal. Supported languages are: ["ar" "da" "de" "du" "es" "fi" "fr" "hu" "it" "ja" "nl" "no" "pt" "ro" "ru" "sv" "tr" "vi"]
+Rebuilt in 155 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:17:21.589 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-copyright.html": WRITE
+WARN 2021/01/08 15:17:21 The site language "ko" isn't supported by lunr, the search results might be suboptimal. Supported languages are: ["ar" "da" "de" "du" "es" "fi" "fr" "hu" "it" "ja" "nl" "no" "pt" "ro" "ru" "sv" "tr" "vi"]
+Total in 164 ms
+
+Change of config file detected, rebuilding site.
+2021-01-08 15:20:15.594 +0900
+WARN 2021/01/08 15:20:15 The site language "ko" isn't supported by lunr, the search results might be suboptimal. Supported languages are: ["ar" "da" "de" "du" "es" "fi" "fr" "hu" "it" "ja" "nl" "no" "pt" "ro" "ru" "sv" "tr" "vi"]
+Rebuilt in 156 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:21:54.595 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-copyright.html": WRITE
+WARN 2021/01/08 15:21:54 The site language "ko" isn't supported by lunr, the search results might be suboptimal. Supported languages are: ["ar" "da" "de" "du" "es" "fi" "fr" "hu" "it" "ja" "nl" "no" "pt" "ro" "ru" "sv" "tr" "vi"]
+Total in 81 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:23:45.600 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-copyright.html": WRITE
+WARN 2021/01/08 15:23:45 The site language "ko" isn't supported by lunr, the search results might be suboptimal. Supported languages are: ["ar" "da" "de" "du" "es" "fi" "fr" "hu" "it" "ja" "nl" "no" "pt" "ro" "ru" "sv" "tr" "vi"]
+Total in 141 ms
+
+Change of config file detected, rebuilding site.
+2021-01-08 15:24:09.604 +0900
+WARN 2021/01/08 15:24:09 The site language "ko" isn't supported by lunr, the search results might be suboptimal. Supported languages are: ["ar" "da" "de" "du" "es" "fi" "fr" "hu" "it" "ja" "nl" "no" "pt" "ro" "ru" "sv" "tr" "vi"]
+Rebuilt in 171 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:26:19.603 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/third-party/lunr-search.html": WRITE
+Total in 70 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:31:01.617 +0900
+i18n changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/i18n/ko.toml": WRITE
+Total in 88 ms
+
+Change of config file detected, rebuilding site.
+2021-01-08 15:31:24.612 +0900
+Rebuilt in 158 ms
+
+Change of config file detected, rebuilding site.
+2021-01-08 15:31:49.613 +0900
+Rebuilt in 189 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:32:01.612 +0900
+i18n changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/i18n/ko.toml": WRITE
+Total in 74 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:32:22.612 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-share.html": WRITE
+Total in 82 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:32:32.615 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-share.html": WRITE
+Total in 72 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:32:39.613 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-share.html": WRITE
+Total in 73 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:32:47.612 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-share.html": WRITE
+Total in 72 ms
+
+Change detected, rebuilding site.
+2021-01-08 15:32:49.612 +0900
+Template changed "/Users/hojinkim/workspace/n4oah.github.io-source/themes/meme/layouts/partials/components/post-share.html": WRITE
+Total in 103 ms
+
+Change of config file detected, rebuilding site.
+2021-01-08 15:33:30.615 +0900
+Rebuilt in 180 ms
