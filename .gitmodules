@@ -1,6 +1,7 @@
 [submodule "themes/meme"]
 	path = themes/meme
 	url = https://github.com/n4oah/n4oah.github.io.git
+	branch = upstream/master
 [submodule "public"]
 	path = public
 	url = https://github.com/n4oah/n4oah.github.io.git
