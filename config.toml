@@ -15,8 +15,11 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "ko"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+
+# build
+builddrafts = true
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
