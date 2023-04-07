@@ -4,7 +4,7 @@ title: "[C#] Call By Reference"
 date: 2020-06-24T10:53:16+09:00
 categories: ["c-sharp"]
 tags: ["C#", "call by reference"]
-draft: true
+draft: false
 ---
 
 ***
@@ -20,6 +20,8 @@ C#에서 메소드를 호출할 때 파라미터 값을 넘겨야 할 때가 있
 
 ## Overview
 
+- [Call by Reference와 Call By Value](#call-by-reference와-call-by-value)
+- [Overview](#overview)
 - [C#에서의 Call By Value](#c에서의-call-by-value)
 - [C#에서의 Call By Reference](#c에서의-call-by-reference)
 - [만약 ref키워드가 없는 자바같은 언어라면?](#만약-ref키워드가-없는-자바같은-언어라면)

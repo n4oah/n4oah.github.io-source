@@ -3,7 +3,7 @@ title: "[Kotlin] Object 키워드 활용하기"
 date: 2021-01-08T10:53:16+09:00
 categories: ["kotlin"]
 tags: ["kotlin", "kotlin object", "keyword", "코틀린"]
-draft: true
+draft: false
 ---
 ***
 
@@ -18,9 +18,11 @@ draft: true
 
 ### Overview
 
-- [싱글턴 class 만들기](#싱글턴-class-만들기)
-- [static 메소드 만들기 companion object](#static-메소드-만들기-companion-object)
-- [익명객체 만들기](#익명객체-만들기)
+- [Kotlin Object](#kotlin-object)
+  - [Overview](#overview)
+  - [싱글턴 class 만들기](#싱글턴-class-만들기)
+  - [static 메소드 만들기 companion object](#static-메소드-만들기-companion-object)
+  - [익명객체 만들기](#익명객체-만들기)
 
 ***
 
