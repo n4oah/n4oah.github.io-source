@@ -1,7 +1,7 @@
 ---
 title: "[Reactor] Cold Sequence와 Hot Sequence"
 date: 2023-07-12T23:55:16+09:00
-categories: ["kotlin"]
+categories: ["spring"]
 tags: ["java", "spring", "webflux", "reactor", "cold sequence", "hot sequence"]
 draft: false
 ---
